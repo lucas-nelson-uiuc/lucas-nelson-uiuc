@@ -4,7 +4,4 @@ Currently, I am a rising senior at the University of Illinois at Urbana-Champaig
 
 Feel free to roam any one of my repositories, and if anything stands out, let me know what you think!
 
-<!---
-lucas-nelson-uiuc/lucas-nelson-uiuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-nelson-uiuc)](https://github.com/anuraghazra/github-readme-stats)
