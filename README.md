@@ -4,4 +4,6 @@ Currently, I am a rising senior at the University of Illinois at Urbana-Champaig
 
 Feel free to roam any one of my repositories, and if anything stands out, let me know what you think!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-nelson-uiuc&show_icons=true&theme=github_dark)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-nelson-uiuc&show_icons=true&theme=github_dark)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-nelson-uiuc&theme=blue-green)
