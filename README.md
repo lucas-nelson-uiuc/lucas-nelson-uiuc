@@ -4,4 +4,4 @@ Recently graduated from the University of Illinois with a degree in statistics. 
 
 Really enjoy working with processes that involve web applications (Shiny, Flask), although these are typically data-intensive applications. Interests include out-of-core processing, OLAP query engines, and all things automation.
 
-After hours, I am an dvid cyclist, post-rock enjoyer, and Polars/DuckDB enthusiast.
+After hours, I am an avid cyclist, post-rock enjoyer, and Polars/DuckDB enthusiast.
