@@ -1,6 +1,6 @@
 Hello, I’m `@lucas-nelson-uiuc`, or Lucas Nelson.
 
-Recently graduated from the University of Illinois with a degree in statistics. Working now as a data analyst where I roleplay as a *faux data engineer*.
+Recently graduated from the University of Illinois with a degree in statistics. Working now as a data analyst where I roleplay as a *faux data/analytic/software engineer*.
 
 Really enjoy working with processes that involve web applications (Shiny, Flask), although these are typically data-intensive applications. Interests include out-of-core processing, OLAP query engines, and all things automation.
 
