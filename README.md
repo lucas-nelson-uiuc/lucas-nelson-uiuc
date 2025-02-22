@@ -16,7 +16,7 @@ I enjoy designing tools that make working with data more intuitive, efficient, a
 ### [Podium](https://github.com/lucas-nelson-uiuc/podium)
 A declarative schema validation and transformation framework for PySpark, Polars, and DuckDB, designed with Narwhals to bring structure and clarity to data workflows.
 
-### [Spotipy Analysis](https://github.com/lucas-nelson-uiuc/spotipy-analysis)
+### [Spotipy Analysis](https://github.com/lucas-nelson-uiuc/spotipy_analysis)
 A deep dive into Spotify’s API to analyze music trends, listening habits, and playlist dynamics.
 
 ## Teaching & Knowledge Sharing
